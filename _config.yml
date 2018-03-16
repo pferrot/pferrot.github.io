@@ -11,7 +11,7 @@ repository: "pferrot/pferrot.github.io"
 author:
   name   : "Patrice Ferrot"
   avatar : "/assets/images/pferrot.png"
-  bio    : "software engineer.<br>&nbsp;&nbsp;&nbsp;&nbsp;cloud.<br>&nbsp;&nbsp;&nbsp;&nbsp;distributed systems.<br>&nbsp;&nbsp;&nbsp;&nbsp;devops.<br>(rock) music lover.<br>squash player.<br>federer fan.<br>snowboarder."
+  bio    : "software engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;cloud<br>&nbsp;&nbsp;&nbsp;&nbsp;distributed systems<br>&nbsp;&nbsp;&nbsp;&nbsp;devops<br>(rock) music lover<br>squash player<br>federer fan<br>snowboarder"
   #email  : "top secret :-)"
   #uri    : "https://github.io.pferrot"
   home   : # null (default), "absolute or relative url to link to author home"
