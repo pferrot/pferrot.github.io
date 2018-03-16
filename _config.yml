@@ -4,7 +4,7 @@ locale: "en-US"
 title: "Patrice Ferrot"
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.io.pferrot" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pferrot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
 
 
