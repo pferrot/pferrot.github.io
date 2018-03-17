@@ -20,6 +20,11 @@ author:
   linkedin: "patrice-ferrot-599743a"
   lastfm: "stupidillusion"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-115876919-1"
+
 twitter:
   username: patriceferrot
 # Build settings
