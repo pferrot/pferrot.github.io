@@ -15,8 +15,8 @@ I am a **distributed systems software engineer** with a passion for solving comp
 I have already occupied the following roles (in reverse chronological order):
 * software architect at a large multinational tech company (current)
 * technical lead and then head of development in a small saas company
-* java engineer in a service company
-* junior j2ee engineer in a startup company
+* java/j2ee engineer in a service company
+* junior java/j2ee engineer in a startup company
 * independent web developer
 
 You can find more details in [my LinkedIn profile](https://www.linkedin.com/in/patrice-ferrot-599743a).
