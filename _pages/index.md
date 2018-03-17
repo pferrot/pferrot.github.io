@@ -14,7 +14,7 @@ I am a **distributed systems software engineer** with a passion for solving comp
 # Career path
 I have already occupied the following roles (in reverse chronological order):
 * software architect at a large multinational tech company (current)
-* technical lead and then head of development in a small company
+* technical lead and then head of development in a small saas company
 * java engineer in a service company
 * junior j2ee engineer in a startup company
 * independent web developer
