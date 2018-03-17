@@ -25,4 +25,4 @@ You can find more details in [my LinkedIn profile](https://www.linkedin.com/in/p
 During my spare time, I learn about blockchain in general and [Ethereum](https://ethereum.org) in particular. I believe blockchain has the potential to lead to something much bigger than the current hype around cryptocurrencies.
 
 # Contact
-The best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/patrice-ferrot-599743a) or [Twitter](https://twitter.com/patriceferrot) accounts.
+The best way to contact me is to send me a message on [LinkedIn](https://www.linkedin.com/in/patrice-ferrot-599743a) or [Twitter](https://twitter.com/patriceferrot).
