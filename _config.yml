@@ -6,6 +6,8 @@ title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://patriceferrot.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
+name: "Patrice Ferrot"
+description: "patrice ferrot software engineer distributed systems cloud devops java scala akka aws amazon web services blockchain bitcoin ethereum"
 
 
 author:
