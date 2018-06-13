@@ -8,11 +8,9 @@ header:
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 ---
-<div class="quote">"Simplicity is the ultimate sophistication."</div>
-<div class="quoteAuthor">Leonardo da Vinci</div>
 
-I am a software engineer with a passion for solving complex problems with open
-source technologies.
+Hi! My name is Patrice Ferrot. I am a software engineer with a passion for
+solving complex problems with open source technologies.
 
 My areas of expertise:
 * backend development
