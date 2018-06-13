@@ -7,13 +7,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://patriceferrot.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
 name: "Patrice Ferrot"
-description: "patrice ferrot software engineer distributed systems cloud devops java scala akka aws amazon web services blockchain bitcoin ethereum"
+description: "I am Patrice Ferrot, a software engineer based in Switzerland. Stuff I do: backend development, wed services, cloud, distributed systems, DevOps. Main tools and technologies: Java, Scala, Akka, AWS (Amazon Web Services), Python, containers (Docker), CI/CD. Also interested in blockchain (Bitcoin, Ethereum,...)."
 
 
 author:
   name   : "Patrice Ferrot"
   avatar : "/assets/images/pferrot_sf_2.png"
-  bio    : "software engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;cloud<br>&nbsp;&nbsp;&nbsp;&nbsp;distributed systems<br>&nbsp;&nbsp;&nbsp;&nbsp;devops<br>(rock) music lover<br>squash player<br>federer fan<br>snowboarder"
+  bio    : "software engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;backend<br>&nbsp;&nbsp;&nbsp;&nbsp;web services<br>&nbsp;&nbsp;&nbsp;&nbsp;cloud<br>&nbsp;&nbsp;&nbsp;&nbsp;distributed systems<br>&nbsp;&nbsp;&nbsp;&nbsp;devops<br>(rock) music lover<br>squash player<br>federer fan<br>snowboarder"
   #email  : "top secret :-)"
   #uri    : "https://github.io.pferrot"
   home   : # null (default), "absolute or relative url to link to author home"

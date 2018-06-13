@@ -11,11 +11,21 @@ header:
 <div class="quote">"Simplicity is the ultimate sophistication."</div>
 <div class="quoteAuthor">Leonardo da Vinci</div>
 
-I am a distributed systems software engineer with a passion for solving complex problems with open source technologies.
+I am a software engineer with a passion for solving complex problems with open
+source technologies.
 
-Distributed systems are complex but can solve very challenging problems. This is what I find most exciting in this field. Yet complexity remains an obstacle for many. I learnt to overcome a lot of that complexity by applying the latest technics in real-world projects.
+My areas of expertise:
+* backend development
+* web services
+* cloud
+* distributed systems
+* devops
 
-My leitmotiv is to make my customers successful by building simple solutions to solve complex problems.
+Over the last fourteen years, I learnt to overcome a lot of the challenges
+in those fields by applying the latest technics and using state-of-the art
+technologies in successfully leading real-world projects.
+
+You can find more details in [my CV](/assets/doc/cv_web_patrice_ferrot.pdf).
 
 ## Career path
 I have already occupied the following roles (in reverse chronological order):
@@ -25,10 +35,8 @@ I have already occupied the following roles (in reverse chronological order):
 * junior java/j2ee engineer in a startup company
 * independent web developer
 
-You can find more details in [my LinkedIn profile](https://www.linkedin.com/in/patrice-ferrot-599743a).
-
 ## Current interests
-During my spare time, I learn about blockchain in general and [Ethereum](https://ethereum.org) in particular. I believe blockchain has the potential to lead to something much bigger than the current hype around cryptocurrencies.
-
-## Contact
-The best way to contact me is to send me a message on [LinkedIn](https://www.linkedin.com/in/patrice-ferrot-599743a) or [Twitter](https://twitter.com/patriceferrot).
+During my spare time, I learn about blockchain in general and
+[Ethereum](https://ethereum.org) in particular. I believe blockchain has the
+potential to lead to something much bigger than the current hype around
+cryptocurrencies.
