@@ -21,9 +21,9 @@ My areas of expertise:
 * distributed systems
 * devops
 
-Over the last fourteen years, I learnt to overcome a lot of the challenges
+Over the last fourteen years, I have learnt to overcome a lot of the challenges
 in those fields by applying the latest technics and using state-of-the art
-technologies in successfully leading real-world projects.
+technologies in real-world projects.
 
 You can find more details in [my CV](/assets/doc/cv_web_patrice_ferrot.pdf).
 
