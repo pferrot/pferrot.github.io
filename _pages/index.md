@@ -34,4 +34,4 @@ I have already occupied the following roles (in reverse chronological order):
 * technical lead and then head of development in a small saas company
 * java/j2ee engineer in a service company
 * junior java/j2ee engineer in a startup company
-* independent web developer
+* freelance web developer
