@@ -18,6 +18,8 @@ My areas of expertise:
 * cloud
 * distributed systems
 * devops
+* ci/cd
+* big data
 
 Over the last fourteen years, I have learnt to overcome a lot of the challenges
 in those fields by applying the latest technics and using state-of-the art
@@ -27,14 +29,9 @@ You can find more details in [my CV](/assets/doc/cv_web_patrice_ferrot.pdf).
 
 ## Career path
 I have already occupied the following roles (in reverse chronological order):
+* senior big data engineer at the leading swiss telco company
 * software architect at a large multinational tech company (current)
 * technical lead and then head of development in a small saas company
 * java/j2ee engineer in a service company
 * junior java/j2ee engineer in a startup company
 * independent web developer
-
-## Current interests
-During my spare time, I learn about blockchain in general and
-[Ethereum](https://ethereum.org) in particular. I believe blockchain has the
-potential to lead to something much bigger than the current hype around
-cryptocurrencies.
