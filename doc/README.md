@@ -23,3 +23,11 @@ bundle update
 ```
 bundle exec github-pages versions
 ```
+
+## Force rebuild
+```
+git commit -m 'rebuild pages' --allow-empty
+git push origin master
+```
+
+See https://stackoverflow.com/a/24099328
