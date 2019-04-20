@@ -16,10 +16,8 @@ bundle exec jekyll serve
 
 ## Update gem versions
 ```
-bundle update github-pages
+bundle update
 ```
-
-See https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll#keeping-your-site-up-to-date-with-the-github-pages-gem
 
 ## View gem versions
 ```
