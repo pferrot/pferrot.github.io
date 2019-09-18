@@ -1,13 +1,13 @@
 # See https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 locale: "en-US"
-title: "Patrice Ferrot - Java / Web / Cloud / Microservices"
+title: "Patrice Ferrot - Web / Cloud / Data / Automation"
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://patriceferrot.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
 name: "Patrice Ferrot"
-description: "Patrice Ferrot, freelance consultant for Java / Web / Cloud / Microservices."
+description: "Patrice Ferrot, freelance consultant for Web / Cloud / Data / Automation."
 
 
 author:
