@@ -12,8 +12,9 @@ description: "Patrice Ferrot, freelance consultant for Web / Cloud / Data / Auto
 
 author:
   name   : "Patrice Ferrot"
-  avatar : "/assets/images/pferrot_sf_2.png"
+  avatar : "/assets/images/patrice.png"
   #bio    : "software engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;backend<br>&nbsp;&nbsp;&nbsp;&nbsp;web services<br>&nbsp;&nbsp;&nbsp;&nbsp;cloud<br>&nbsp;&nbsp;&nbsp;&nbsp;distributed systems<br>&nbsp;&nbsp;&nbsp;&nbsp;devops<br>&nbsp;&nbsp;&nbsp;&nbsp;ci/cd<br>&nbsp;&nbsp;&nbsp;&nbsp;big data<br>(rock) music lover<br>squash player<br>federer fan<br>snowboarder"
+  bio    : freelance consultant
   #email  : "top secret :-)"
   #uri    : "https://github.io.pferrot"
   home   : # null (default), "absolute or relative url to link to author home"
