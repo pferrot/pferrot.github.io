@@ -1,10 +1,10 @@
 # See https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 locale: "en-US"
-title: "Patrice Ferrot - Web / Cloud / Data / Automation"
+title: "pf80.ch - Web / Cloud / Data / Automation"
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pf80.ch" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.pf80.ch" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
 name: "Patrice Ferrot"
 description: "Patrice Ferrot, freelance consultant for Web / Cloud / Data / Automation."
