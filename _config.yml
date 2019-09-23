@@ -4,7 +4,7 @@ locale: "en-US"
 title: "Patrice Ferrot - Web / Cloud / Data / Automation"
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://patriceferrot.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pf80.ch" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "pferrot/pferrot.github.io"
 name: "Patrice Ferrot"
 description: "Patrice Ferrot, freelance consultant for Web / Cloud / Data / Automation."
@@ -25,7 +25,7 @@ author:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-115876919-1"
+    tracking_id: "UA-148509895-1"
 
 twitter:
   username: patriceferrot

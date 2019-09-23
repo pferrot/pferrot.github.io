@@ -35,7 +35,7 @@ I will analyse your development pipeline and production environment, recommend e
 
 *Java, Scala, Python, PHP, JavaScript, Bash, SQL.*
 
-I will develop new solutions, refactor existing ones or work on a proof of concept, working in autonomy or with your team, in any of those programming languages (not an exhaustive list).
+I will develop new solutions, refactor existing ones or work on a proof of concept, working in autonomy or with your team, in any of those programming languages.
 
 ### Open source
 
@@ -44,4 +44,4 @@ I will develop new solutions, refactor existing ones or work on a proof of conce
 I will help you leverage and customize open source technologies and I will assist you in making your own software open source.
 
 ### Contact
-[contact@patriceferrot.com](mailto:contact@patriceferrot.com)
+[contact@pf80.ch](mailto:contact@pf80.ch)
