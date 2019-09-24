@@ -30,7 +30,10 @@ analytics:
 
 twitter:
   username: patriceferrot
+
+# Only used if there is no header image in page.
 og_image: "/assets/images/pf80_sf.png"
+
 # Build settings
 markdown: kramdown
 #theme: minima
