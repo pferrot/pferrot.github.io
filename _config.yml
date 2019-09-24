@@ -1,7 +1,7 @@
 # See https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 locale: "en-US"
-title: "pf80.ch - Web / Cloud / Data / Automation"
+title: "pf80.ch"
 title_separator: "|"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.pf80.ch" # the base hostname & protocol for your site, e.g. http://example.com

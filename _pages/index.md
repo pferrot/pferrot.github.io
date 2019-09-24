@@ -33,7 +33,7 @@ I will analyse your development pipeline and production environment, recommend e
 
 *Java, Scala, Python, PHP, JavaScript, Bash, SQL,...*
 
-I will develop new solutions, refactor existing ones or work on a proof of concept, working in autonomy or with your team, in any a variety of programming languages.
+I will develop new solutions, refactor existing ones or work on a proof of concept, working in autonomy or with your team, in a variety of programming languages.
 
 ### Open source
 
