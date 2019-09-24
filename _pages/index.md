@@ -42,4 +42,4 @@ I will develop new solutions, refactor existing ones or work on a proof of conce
 I will help you leverage and customize open source technologies and I will assist you in making your own software open source.
 
 ### Contact
-[contact@pf80.ch](mailto:contact@pf80.ch)
+[patrice.ferrot@gmail.com](mailto:patrice.ferrot@gmail.com)
