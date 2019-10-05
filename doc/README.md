@@ -31,3 +31,8 @@ git push origin master
 ```
 
 See https://stackoverflow.com/a/24099328
+
+# Multi-language
+See https://github.com/mmistakes/minimal-mistakes/issues/1416 and https://www.sylvaindurand.org/making-jekyll-multilingual/
+
+
