@@ -89,6 +89,10 @@ h1 {
   font-size: 36px;
 }
 
+h1#page-title {
+  display: none;
+}
+
 h3 {
   font-size: 20px;
 }
@@ -97,3 +101,63 @@ a:focus {
   outline: none;
 }
 
+@media (min-width: 768px) {
+  p.page__lead {
+    font-size: 35px;
+    font-family: "Alegreya";
+    font-weight: bold;
+    
+  }
+
+  div.page__hero--overlay div.wrapper {
+    max-width: 800px;
+    float: left;
+    padding-left: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  p.page__lead {
+    font-size: 25px;
+    font-family: "Alegreya";
+    font-weight: bold;
+    
+  }
+
+  div.page__hero--overlay div.wrapper {
+    float: left;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+}
+
+div.projectContainer1 {
+  background-color:rgba(11, 9, 121, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+div.projectContainer2 {
+  background-color:rgba(6, 201, 110, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+div.projectTitle {
+  font-size: 20px;
+  font-family: "Alegreya";
+  font-weight: bold;  
+}
+
+div.projectIntro {
+  font-size: 1em;
+  font-style: italic;
+  padding-top: 10px;
+  line-height: 1.8em;
+}
+
+div.projectDesc {
+  font-size: 1em;
+  padding-top: 10px;
+  line-height: 1.8em;
+}
