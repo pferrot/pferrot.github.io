@@ -110,7 +110,7 @@ a:focus {
   }
 
   div.page__hero--overlay div.wrapper {
-    max-width: 800px;
+    max-width: 500px;
     float: left;
     padding-left: 100px;
   }
@@ -160,4 +160,27 @@ div.projectDesc {
   font-size: 1em;
   padding-top: 10px;
   line-height: 1.8em;
+}
+
+div.languageSwitcher {
+  font-size: 1.2em;
+}
+
+div.languageSwitcher div.languageSwitcherInner {
+  float: right;
+  padding-right: 16px;
+  line-height: 0.1em;
+  font-family: "Alegreya";
+}
+
+div.languageSwitcher ul li {
+  display: inline;
+}
+
+div.languageSwitcher ul li + li::before {
+  content: " | ";
+}
+
+.masthead__inner-wrap {
+  padding-top: 0px;
 }
