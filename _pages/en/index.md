@@ -27,7 +27,7 @@ I will help you <b>bring data coming from siloed systems/applications together</
 <a name="automation"></a>
 ### CI/CD, DevOps, Containers
 
-*Unlock your dev and system teams’ full potential and provide more value to your customers, quicker.*
+*Unlock your system and dev teams’ full potential and provide more value to your customers, quicker.*
 
 Tools matter: I will help you optimize your use of tools like <b>GitHub</b>, <b>BitBucket</b>, <b>GitLab</b>, <b>Jenkins</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Grafana</b>, <b>Prometheus</b> and many others. But more important: I will <b>coach your teams</b> to have the necessary <b>mindset</b> to enable you to truly improve your productivity and therefore better serve your customers. I will analyze your development pipeline and production environment, recommend enhancements and implement them for you.
 
@@ -41,7 +41,7 @@ I will develop new solutions, refactor existing ones or work on a proof of conce
 
 *Leverage the full potential of open source software.*
 
-I will help you leverage and customize open source technologies, be it <b>end user solutions</b> like OwnCloud for files sharing or <b>tools/librairies</b> like those provided by the Apache software foundation to power your own solutions. I will also assist you in making your own software open source.
+I will help you leverage and customize open source technologies, be it <b>end user solutions</b> like OwnCloud for file sharing or <b>tools/librairies</b> like those provided by the Apache software foundation to power your own solutions. I will also assist you in making your own software open source.
 
 ### Projects
 

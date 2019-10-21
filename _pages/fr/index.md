@@ -15,7 +15,7 @@ header:
 ### Web, Cloud, APIs
 *Connectez-vous à vos clients, transférez vos besoins de traitement et de stockage dans le cloud, automatisez grâce à des API.*
 
-Que vous ayez besoin d'une solution simple mais robuste pour <b>partager des fichiers</b> avec vos collaborateurs et/ou clients, ou que vous cherchiez à <b>moderniser votre offre</b> et améliorer vos processus en déployant des <b>objets connectés (IoT)</b> chez vos clients, je vais architecturer, implémenter, déployer et opérer des solutions sécurisées, résilientes et évolutives qui vous aideront à développer votre business. Je vous assisterai également dans la migration de vos solutions existantes ou le déploiement de nouvelles solutions dans le cloud (Amazon Web Services, Google Cloud Platform, Microsoft Azure,Exoscale ou d'autres) afin de <b>diminuer vos coûts</b> en comparaison à la mise en place et à l'exploitation de votre propre infrastructure. 
+Que vous ayez besoin d'une solution simple mais robuste pour <b>partager des fichiers</b> avec vos collaborateurs et/ou clients, ou que vous cherchiez à <b>moderniser votre offre</b> et améliorer vos processus en déployant des <b>objets connectés (IoT)</b> chez vos clients, je vais architecturer, implémenter, déployer et opérer des solutions sécurisées, résilientes et évolutives qui vous aideront à développer votre business. Je vous assisterai également dans la migration de vos solutions existantes ou le déploiement de nouvelles solutions dans le cloud (Amazon Web Services, Google Cloud Platform, Microsoft Azure, Exoscale ou d'autres) afin de <b>diminuer vos coûts</b> en comparaison à la mise en place et à l'exploitation de votre propre infrastructure. 
 
 <a name="data"></a>
 ### Data, Analytics
@@ -27,7 +27,7 @@ Je vous aiderai à <b>consolider les données venant des multiples systèmes</b>
 <a name="automation"></a>
 ### CI/CD, DevOps, Containers
 
-*Déverouillez le potentiel des vos équipes de développement et système, et fournissez d'avantage de valeur à vos clients, plus rapidement.*
+*Déverouillez le potentiel des vos équipes système et de développement et fournissez ainsi d'avantage de valeur à vos clients, plus rapidement.*
 
 Les outils ont leur importance: je vous aiderai à utiliser au mieux des outils tels que <b>GitHub</b>, <b>BitBucket</b>, <b>GitLab</b>, <b>Jenkins</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Grafana</b>, <b>Prometheus</b> ou d'autres. Mais surtout je <b>coacherai vos équipes</b> pour les amener à avoir <b>l'état d'esprit</b> qui vous permettra de réellement améliorer votre productivité et d'ainsi mieux servir vos clients. J'analyserai vos pipelines de développement et votre environment de production afin de vous recommander des améliorations et je les implémenterai pour vous si vous le souhaitez.
 
