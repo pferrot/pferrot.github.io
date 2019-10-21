@@ -36,6 +36,12 @@ I will analyse your development pipeline and production environment, recommend e
 
 I will develop new solutions, refactor existing ones or work on a proof of concept, working in autonomy or with your team, in a variety of programming languages.
 
+### Open source
+
+*Leverage the full potential of open source software.*
+
+I will help you leverage and customize open source technologies and I will assist you in making your own software open source.
+
 ### Projects
 
 A selection of projects I worked on:
