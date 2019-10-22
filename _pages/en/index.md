@@ -22,7 +22,7 @@ Whether you need a simple yet robust solution to <b>share files</b> with your co
 
 *Break silos, collect data, analyze it and uncover new business opportunities.*
 
-I will help you <b>bring data coming from siloed systems/applications together</b> so you can explore consolidated datasets and build new features. I will enable you to become a data company and therefore make better <b>strategic decisions based on facts</b>.
+I will help you <b>bring data coming from siloed systems/applications together</b> so you can explore consolidated datasets and build new features. I will enable you to become a data company and therefore make better <b>strategic decisions based on facts</b> by leveraging the most advanced <b>big data</b> technologies or by using simpler yet effective solutions depending on your needs.
 
 <a name="automation"></a>
 ### CI/CD, DevOps, Containers

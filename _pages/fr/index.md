@@ -22,7 +22,7 @@ Que vous ayez besoin d'une solution simple mais robuste pour <b>partager des fic
 
 *Cassez les silos, amassez des données, analysez-les et découvrez de nouvelle opportunités.*
 
-Je vous aiderai à <b>consolider les données venant des multiples systèmes</b> de votre entreprise qui fonctionnent de manière isolée (silos), de telle manière que vous puissiez exploiter ces données et développer de nouvelles fonctionnalités. Je vous permettrai de prendre des <b>décisions stratégiques basées sur des faits</b> grâce à vos données qui sont aujourd'hui sous-exploitées.
+Je vous aiderai à <b>consolider les données venant des multiples systèmes</b> de votre entreprise qui fonctionnent de manière isolée (silos), de telle manière que vous puissiez exploiter ces données et développer de nouvelles fonctionnalités. Je vous permettrai de prendre des <b>décisions stratégiques basées sur des faits</b> grâce à vos données qui sont aujourd'hui sous-exploitées, en utilisant les technologies <b>big data</b> les plus avancées ou, en fonction de vos besoins, en ayant recours à des outils plus simples mais efficaces.
 
 <a name="automation"></a>
 ### CI/CD, DevOps, Containers
