@@ -15,12 +15,12 @@ header:
 ### Web, Cloud, APIs
 *Connect with your customers, offload your processing/storage needs to the cloud, enable automation through APIs.*
 
-Whether you need a simple yet robust solution to <b>share files</b> with your coworkers and/or customers, or you have plans to <b>modernize your offer and optimize your processes</b> by deploying <b>connected devices (IoT)</b> at your customers', I will architect, build, deploy and operate secure, resilient and scalable solutions that will help you grow your business. I will assist you in leveraging public cloud providers (Amazon Web Services, Google Cloud Platform, Microsoft Azure, Exoscale and others) to <b>save time and money</b> compared to setting up and operating your own infrastructure. 
+Whether you need a simple yet robust solution to <b>share files</b> with your co-workers and/or customers, or you have plans to <b>modernize your offer and optimize your processes</b> by deploying <b>connected devices (IoT)</b> at your customers', I will architect, build, deploy and operate secure, resilient and scalable solutions that will help you grow your business. I will assist you in leveraging public cloud providers (Amazon Web Services, Google Cloud Platform, Microsoft Azure, Exoscale and others) to <b>save time and money</b> compared to setting up and operating your own infrastructure. 
 
 <a name="data"></a>
 ### Data, Analytics
 
-*Break silos, collect data, analyze it and uncover new business opportunities.*
+*Break silos, collect data, analyse it and uncover new business opportunities.*
 
 I will help you <b>bring data coming from siloed systems/applications together</b> so you can explore consolidated datasets and build new features. I will enable you to become a data company and therefore make better <b>strategic decisions based on facts</b> by leveraging the most advanced <b>big data</b> technologies or by using simpler yet effective solutions depending on your needs.
 
@@ -29,7 +29,7 @@ I will help you <b>bring data coming from siloed systems/applications together</
 
 *Unlock your system and dev teams’ full potential and provide more value to your customers, quicker.*
 
-Tools matter: I will help you optimize your use of tools like <b>GitHub</b>, <b>BitBucket</b>, <b>GitLab</b>, <b>Jenkins</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Grafana</b>, <b>Prometheus</b> and many others. But more important: I will <b>coach your teams</b> to have the necessary <b>mindset</b> to enable you to truly improve your productivity and therefore better serve your customers. I will analyze your development pipeline and production environment, recommend enhancements and implement them for you.
+Tools matter: I will help you optimize your use of tools like <b>GitHub</b>, <b>BitBucket</b>, <b>GitLab</b>, <b>Jenkins</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Grafana</b>, <b>Prometheus</b> and many others. But more important: I will <b>coach your teams</b> to have the necessary <b>mindset</b> to enable you to truly improve your productivity and therefore better serve your customers. I will analyse your development pipeline and production environment, recommend enhancements and implement them for you.
 
 ### Programming languages
 
@@ -41,7 +41,7 @@ I will develop new solutions, refactor existing ones or work on a proof of conce
 
 *Leverage the full potential of open source software.*
 
-I will help you leverage and customize open source technologies, be it <b>end user solutions</b> like OwnCloud for file sharing or <b>tools/librairies</b> like those provided by the Apache software foundation to power your own solutions. I will also assist you in making your own software open source.
+I will help you leverage and customize open source technologies; be it <b>end user solutions</b> like OwnCloud for file sharing or <b>tools/libraries</b> like those provided by the Apache software foundation to power your own solutions. I will also assist you in making your own software open source.
 
 ### Projects
 
