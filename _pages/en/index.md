@@ -1,13 +1,13 @@
 ---
 title: "Expert in automation and data exchange"
 permalink: /en
-excerpt: "Expert in automation and data exchange"
+excerpt: "Make your life easier with modern software solutions"
 header:
   #image: /assets/images/sf.png
   overlay_image: /assets/images/sf.png
   overlay_filter: 0.55 # same as adding an opacity of 0.5 to a black background
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
+  #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 ---
 

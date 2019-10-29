@@ -1,7 +1,7 @@
 ---
 title: "Expert dans l'automatisation et l'échange de données"
 permalink: /fr
-excerpt: "Expert dans l'automatisation et l'échange de données"
+excerpt: "Simplifiez-vous la vie avec des solutions logicielles modernes"
 header:
   #image: /assets/images/sf.png
   overlay_image: /assets/images/sf.png
