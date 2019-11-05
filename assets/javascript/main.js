@@ -69,4 +69,7 @@ $('a[href*="#"]')
       $(this).attr("href", hrefAttr.substring(1))  
     }
   });
+
+  // Hack to be able to use custom jquery.greedy-navigation.js.
+  $('nav.greedy-nav').removeClass("greedy-nav").addClass("greedy-nav-custom");
 });

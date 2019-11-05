@@ -195,3 +195,27 @@ div.languageSwitcher ul li + li::before {
 .masthead__inner-wrap {
   padding-top: 0px;
 }
+
+
+/* Priority plus navigation ========================================================================== */
+.greedy-nav-custom { position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; min-height: 2em; background: #fff; }
+.greedy-nav-custom a { display: block; margin: 0 1rem; color: #6f777d; text-decoration: none; }
+.greedy-nav-custom a:hover { color: #53595e; }
+.greedy-nav-custom a.site-logo { margin-left: 0; margin-right: 0.5rem; }
+.greedy-nav-custom a.site-title { margin-left: 0; }
+.greedy-nav-custom__toggle { -ms-flex-item-align: center; align-self: center; height: 2rem; border: 0; outline: none; background-color: transparent; cursor: pointer; }
+.greedy-nav-custom .visible-links { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; -webkit-box-flex: 1; -ms-flex: 1; flex: 1; overflow: hidden; }
+.greedy-nav-custom .visible-links li { -webkit-box-flex: 0; -ms-flex: none; flex: none; }
+.greedy-nav-custom .visible-links a { position: relative; }
+.greedy-nav-custom .visible-links a:before { content: ""; position: absolute; left: 0; bottom: 0; height: 4px; background: #6f777d; width: 100%; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; -webkit-transform: scaleX(0) translate3d(0, 0, 0); transform: scaleX(0) translate3d(0, 0, 0); }
+.greedy-nav-custom .visible-links a:hover:before { -webkit-transform: scaleX(1); -ms-transform: scaleX(1); transform: scaleX(1); }
+.greedy-nav-custom .hidden-links { position: absolute; top: 100%; right: 0; margin-top: 15px; padding: 5px; border: 1px solid #f2f3f3; border-radius: 4px; background: #fff; -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
+.greedy-nav-custom .hidden-links.hidden { display: none; }
+.greedy-nav-custom .hidden-links a { margin: 0; padding: 10px 20px; font-size: 1em; }
+.greedy-nav-custom .hidden-links a:hover { color: #53595e; background: #dbdddf; }
+.greedy-nav-custom .hidden-links:before { content: ""; position: absolute; top: -11px; right: 10px; width: 0; border-style: solid; border-width: 0 10px 10px; border-color: #f2f3f3 transparent; display: block; z-index: 0; }
+.greedy-nav-custom .hidden-links:after { content: ""; position: absolute; top: -10px; right: 10px; width: 0; border-style: solid; border-width: 0 10px 10px; border-color: #fff transparent; display: block; z-index: 1; }
+.greedy-nav-custom .hidden-links li { display: block; border-bottom: 1px solid #f2f3f3; }
+.greedy-nav-custom .hidden-links li:last-child { border-bottom: none; }
+
+.no-js .greedy-nav-custom .visible-links { -ms-flex-wrap: wrap; flex-wrap: wrap; overflow: visible; }
