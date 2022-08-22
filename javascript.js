@@ -1,10 +1,6 @@
-var counter = 0;
-var max = 100000;
-
 $(function() {
     restart();
 });
-
 
 function addTextLoop() {
     if ($("div.blabla").height() > window.innerHeight) {
