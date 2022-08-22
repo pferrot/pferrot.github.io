@@ -1,5 +1,5 @@
 var counter = 0;
-var max = 10000000;
+var max = 100000;
 
 $(function() {
     addTextLoop();
