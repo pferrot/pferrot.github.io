@@ -10,7 +10,7 @@ function addTextLoop() {
     $("div#blabla").append("<span style=\"font-size: " + randomInt(6, 40) + "px\">pf80.ch </span>");
     counter++;
     if (counter < max) {
-        setTimeout(addTextLoop, randomInt(500, 5000));
+        setTimeout(addTextLoop, randomInt(100, 2000));
         //setTimeout(addTextLoop, randomInt(5, 5));
     } else {
         $("div#blabla").append("<span style=\"font-size: " + randomInt(6, 40) + "px\">...</span>");
