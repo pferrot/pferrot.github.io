@@ -2,19 +2,27 @@ var counter = 0;
 var max = 100000;
 
 $(function() {
-    addTextLoop();
+    restart();
 });
 
 
 function addTextLoop() {
-    $("div#blabla").append("<span style=\"font-size: " + randomInt(6, 40) + "px\">pf80.ch </span>");
-    counter++;
-    if (counter < max) {
-        setTimeout(addTextLoop, randomInt(100, 2000));
-        //setTimeout(addTextLoop, randomInt(5, 5));
-    } else {
-        $("div#blabla").append("<span style=\"font-size: " + randomInt(6, 40) + "px\">...</span>");
+    if ($("div.blabla").height() > window.innerHeight) {
+        $("div.blabla").remove();
+        $("body").html("<div class=\"centeredParent\"><div class=\"centeredChild\">pf80.ch</div></div>");
+        setTimeout(restart, 5000);
     }
+    else {
+        $("div.blabla").append("<span style=\"font-size: " + randomInt(6, 40) + "px\">pf80.ch </span>");
+        setTimeout(addTextLoop, randomInt(1, 10));
+    }
+}
+
+function restart() {
+    $("div.centeredParent").remove();
+    $("div.blabla").remove();
+    $("body").html("<div class=\"blabla\"></div>");
+    addTextLoop();
 }
 
 function randomInt(min, max) {
