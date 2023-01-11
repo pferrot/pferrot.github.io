@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-11T14:41:32+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">pf80.ch</title><subtitle>pf80.ch</subtitle><author><name>pf80</name></author><entry><title type="html">Auto-invest in Bitcoin with Relai and Butanuki</title><link href="http://localhost:4000/2023/01/10/relai-and-butanuki.html" rel="alternate" type="text/html" title="Auto-invest in Bitcoin with Relai and Butanuki" /><published>2023-01-10T00:00:00+01:00</published><updated>2023-01-10T00:00:00+01:00</updated><id>http://localhost:4000/2023/01/10/relai-and-butanuki</id><content type="html" xml:base="http://localhost:4000/2023/01/10/relai-and-butanuki.html">&lt;p&gt;I tried both &lt;a href=&quot;https://relai.app&quot; target=&quot;_blank&quot;&gt;Relai&lt;/a&gt; and &lt;a href=&quot;https://butanuki.com/&quot; target=&quot;_blank&quot;&gt;Butanuki&lt;/a&gt;, two Swiss solutions that allow to auto-invest in Bitcoin. Both solutions can also be used by non-Swiss residents (please check their respective terms and conditions for more details).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;While Relai is a fairly well established Bitcoin-only company that allows more than auto-investing, Butanuki is not a company, but a tool provided by Swiss bitcoiner &lt;a href=&quot;https://bennaim.com&quot; target=&quot;_blank&quot;&gt;Yves Bennaïm&lt;/a&gt;. Butanuki actually relies on &lt;a href=&quot;https://bity.com&quot; target=&quot;_blank&quot;&gt;Bity&lt;/a&gt;, a pioneer in the field of crypto financial services based in Neuchâtel, Switzerland.&lt;/p&gt;
+
+&lt;p&gt;The first good thing about those two solutions is that they promote &lt;a href=&quot;https://thebitcoinmanual.com/articles/why-bitcoiners-should-self-custody/&quot; target=&quot;_blank&quot;&gt;self-custody&lt;/a&gt; and even force you to do it: indeed, they will not keep your Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;As expected, both solutions require &lt;a href=&quot;https://en.wikipedia.org/wiki/Know_your_customer&quot; target=&quot;_blank&quot;&gt;KYC&lt;/a&gt;. Once this small admin step is done, both solutions are really easy to use:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;setup a regular investing plan (e.g. 100.- Swiss francs per week)&lt;/li&gt;
+  &lt;li&gt;create the corresponding recurrent payment in your traditional bank account (both Relai and Butanuki will provide you with the details of the Swiss bank accounts where you need to send the money)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;real-life-test&quot;&gt;Real-life test&lt;/h2&gt;
+
+&lt;p&gt;Last Monday, I had the exact same payment scheduled for both services: CHF 100.-.&lt;/p&gt;
+
+&lt;p&gt;First off, both worked as expected: I received my sats, no bad surprise.&lt;/p&gt;
+
+&lt;p&gt;Then, it was interesting to note that the Bitcoin transaction for Butanuki was executed a few hours earlier than the Relai one (not sharing them here for privacy/security reasons). It’s not a big deal since the goal of auto-investing is precisely to not have to worry about catching the best possible price on a given day (although it is nice when it happens). In the long-run, this should not matter.&lt;/p&gt;
+
+&lt;p&gt;I got a few more sats with Butanuki maybe because they did not apply the same price themselves (since the transaction did not happen at the exact same time), but also because transaction fees where a bit lower:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Relai: 1.5% (base fee is 2.5% but you can get a fee as low as 1% depending on the options you choose, details &lt;a href=&quot;https://support.relai.app/en/articles/5658120-how-much-do-i-pay-in-fees-for-buying-selling-bitcoin&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Butanuki: 0.9% (normally 1.5%, but I could benefit from the &lt;a href=&quot;https://twitter.com/Butanuki21/status/1608108487632105474&quot; target=&quot;_blank&quot;&gt;early bird discount&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-like&quot;&gt;What I like&lt;/h2&gt;
+
+&lt;p&gt;What I like about Relai:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Not only for auto-invest&lt;/li&gt;
+  &lt;li&gt;Nice mobile app&lt;/li&gt;
+  &lt;li&gt;They provide their own wallet, so easier to get started for beginners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What I like about Butanuki:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Focuses on auto-investing only and even provides &lt;a href=&quot;https://app.butanuki.com/savings&quot; target=&quot;_blank&quot;&gt;a simulator&lt;/a&gt; that shows why it might be a good idea to (auto-)invest in Bitcoin&lt;/li&gt;
+  &lt;li&gt;The fact that you can choose where the Bitcoin should be sent, no need for an extra transaction if you want to manage your keys with a hardware wallet for example&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;address-reuse&quot;&gt;Address reuse&lt;/h2&gt;
+
+&lt;p&gt;Both solutions will reuse the same Bitcoin address for every payment. Address reuse should be avoided as explained &lt;a href=&quot;https://en.bitcoin.it/wiki/Address_reuse&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. I wonder if this is something Relai or Butanuki are planning to improve.&lt;/p&gt;</content><author><name>pf80</name></author><category term="bitcoin" /><summary type="html">I tried both Relai and Butanuki, two Swiss solutions that allow to auto-invest in Bitcoin. Both solutions can also be used by non-Swiss residents (please check their respective terms and conditions for more details).</summary></entry><entry><title type="html">Jekyll and Minimal Mistakes on GitHub Pages</title><link href="http://localhost:4000/2023/01/08/jekyll-minimal-mistakes-github-pages.html" rel="alternate" type="text/html" title="Jekyll and Minimal Mistakes on GitHub Pages" /><published>2023-01-08T00:00:00+01:00</published><updated>2023-01-08T00:00:00+01:00</updated><id>http://localhost:4000/2023/01/08/jekyll-minimal-mistakes-github-pages</id><content type="html" xml:base="http://localhost:4000/2023/01/08/jekyll-minimal-mistakes-github-pages.html">&lt;p&gt;I first started playing with &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot; target=&quot;_blank&quot;&gt;Minimal Mistakes&lt;/a&gt; something like four or five years ago when I wanted to setup a simple website for my work as a freelance software engineer.&lt;/p&gt;
+
+&lt;p&gt;I was looking for a cheap (free if possible) solution that was easy to maintain. Also, I wanted a good looking UI out of the box as I am pretty comfortable with backend stuff, but I am certainly no UX designer.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;While looking around at what others were using, I found that &lt;a href=&quot;http://jonasboner.com&quot; target=&quot;_blank&quot;&gt;Jonas Bonér’s personal website&lt;/a&gt;&lt;sup&gt;[1]&lt;/sup&gt; really cool. That’s how I discovered &lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot; target=&quot;_blank&quot;&gt;Minimal Mistakes&lt;/a&gt;. Jonas mentioned them in &lt;a href=&quot;http://jonasboner.com/about/&quot; target=&quot;_blank&quot;&gt;his “about” page&lt;/a&gt; and also mentioned the fact that it is hosted on &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;GitHub Pages&lt;/a&gt;. Exactly what I needed, that’s how I ended up using this solution for my personal website &lt;a href=&quot;https://pf80.ch&quot; target=&quot;_blank&quot;&gt;https://pf80.ch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am not going to explain in details how to setup Jekyll with GitHub pages as there is extensive documentation about this already (the &lt;a href=&quot;https://jekyllrb.com/docs/github-pages&quot; target=&quot;_blank&quot;&gt;official documentation&lt;/a&gt; to start with), but I am just going to recommend considering this solution assuming that you are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;comfortable working with Git / GitHub&lt;/li&gt;
+  &lt;li&gt;comfortable writing posts in &lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown&quot; target=&quot;_blank&quot;&gt;Markdown&lt;/a&gt; format&lt;/li&gt;
+  &lt;li&gt;capable of setting up some DNS records at your domain name registrar in case you want to access your website with a custom domain name like pf80.ch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Right, it’s not a given for everyone. But if you can do this and you are not after highly sophisiticated editing and publishing capabilities, then you will most likely be very happy with the Jekyll + Minimal Mistakes + GitHub Pages combo. Some of the nice features this provides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsive layout&lt;/li&gt;
+  &lt;li&gt;100% free (although you should consider sponsoring &lt;a href=&quot;https://opencollective.com/jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/sponsors/mmistakes&quot; target=&quot;_blank&quot;&gt;Minimal Mistakes&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Native support for blog posts and standard pages&lt;/li&gt;
+  &lt;li&gt;Taxonomy (tags, categories)&lt;/li&gt;
+  &lt;li&gt;Highly customizable&lt;/li&gt;
+  &lt;li&gt;Support for comments through third-party comment providers (e.g. Disqus, Discourse,…)&lt;/li&gt;
+  &lt;li&gt;Site-wide search so visitors can easily find content in your website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The only thing that was not ideal for me was when I wanted to publish my website in multiple languages a few years ago. I eventually managed to do what I wanted with a few hacks, but this was not supported natively at the time. Maybe it is today, or some plugin exist, but if you need to localize your website, I recommend you double-check that first.&lt;/p&gt;
+
+&lt;p&gt;I am back to English only now, so everything’s fine!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;[1]&lt;/sup&gt; Jonas Bonér is a distributed systems thought leader who greatly inspired me. He is notably know as the creator of the Akka reactive distributed systems platform. Maybe more on this another time.&lt;/p&gt;</content><author><name>pf80</name></author><category term="jekyll" /><category term="minimal mistakes" /><category term="github pages" /><summary type="html">I first started playing with Jekyll and Minimal Mistakes something like four or five years ago when I wanted to setup a simple website for my work as a freelance software engineer. I was looking for a cheap (free if possible) solution that was easy to maintain. Also, I wanted a good looking UI out of the box as I am pretty comfortable with backend stuff, but I am certainly no UX designer.</summary></entry></feed>
