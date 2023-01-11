@@ -27,10 +27,9 @@ First off, both worked as expected: I received my sats, no bad surprise.
 
 Then, it was interesting to note that the Bitcoin transaction for Butanuki was executed a few hours earlier than the Relai one (not sharing them here for privacy/security reasons). It's not a big deal since the goal of auto-investing is precisely to not have to worry about catching the best possible price on a given day (although it is nice when it happens). In the long-run, this should not matter.
 
-I got a few more sats with Butanuki maybe because they did not apply the same price themselves (since the transaction did not happen at the exact same time), but also because transaction fees where a bit lower:
+I got a few more sats with Butanuki, maybe because they did not apply the same conversion rate price themselves (since the transactions did not happen at the exact same time), but also because transaction fees where a bit lower:
 * Relai: 1.5% (base fee is 2.5% but you can get a fee as low as 1% depending on the options you choose, details [here](https://support.relai.app/en/articles/5658120-how-much-do-i-pay-in-fees-for-buying-selling-bitcoin))
 * Butanuki: 0.9% (normally 1.5%, but I could benefit from the [early bird discount](https://twitter.com/Butanuki21/status/1608108487632105474){:target="_blank"})
-
 
 ## What I like
 
