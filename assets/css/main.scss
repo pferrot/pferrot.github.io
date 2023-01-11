@@ -89,24 +89,6 @@ h1 {
   font-size: 36px;
 }
 
-h1#page-title {
-  display: none;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-.page__inner-wrap h3 {
-  font-size: 25px;
-  color: white;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  background-image: linear-gradient(to right, #53595e, rgba(0,0,0,0));
-}
-
 a:focus {
   outline: none;
 }
@@ -116,7 +98,7 @@ a:focus {
     font-size: 35px;
     font-family: "Alegreya";
     font-weight: bold;
-    
+
   }
 
   div.page__hero--overlay div.wrapper {
@@ -131,7 +113,7 @@ a:focus {
     font-size: 25px;
     font-family: "Alegreya";
     font-weight: bold;
-    
+
   }
 
   div.page__hero--overlay div.wrapper {
@@ -157,7 +139,7 @@ div.projectContainer2 {
 div.projectTitle {
   font-size: 20px;
   font-family: "Alegreya";
-  font-weight: bold;  
+  font-weight: bold;
 }
 
 div.projectIntro {

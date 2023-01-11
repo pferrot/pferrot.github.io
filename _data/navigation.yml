@@ -1,9 +1,3 @@
 main:
-  - title: "web"
-    url: "#web-cloud-api"
-  - title: "cloud"
-    url: "#web-cloud-api"
-  - title: "data"
-    url: "#data"
-  - title: "automation"
-    url: "#automation"
+  #- title: "bitcoin"
+  #  url: "bitcoin"
