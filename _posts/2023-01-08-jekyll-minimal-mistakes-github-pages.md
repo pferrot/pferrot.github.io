@@ -14,9 +14,9 @@ I was looking for a cheap (free if possible) solution that was easy to maintain.
 
 <!--more-->
 
-While looking around at what others were using, I found that [Jonas Bonér's personal website](http://jonasboner.com){:target="_blank"}<sup>[1]</sup> really cool. That's how I discovered [Jekyll](https://jekyllrb.com){:target="_blank"} and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/){:target="_blank"}. Jonas mentioned them in [his "about" page](http://jonasboner.com/about/){:target="_blank"} and also mentioned the fact that it is hosted on [GitHub Pages](https://pages.github.com/){:target="_blank"}. Exactly what I needed, that's how I ended up using this solution for my personal website [https://pf80.ch](https://pf80.ch){:target="_blank"}.
+While looking around at what others were using, I found that [Jonas Bonér's personal website](http://jonasboner.com){:target="_blank"}<sup>[1]</sup> was really cool. That's how I discovered [Jekyll](https://jekyllrb.com){:target="_blank"} and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/){:target="_blank"}. Jonas mentioned them in [his "about" page](http://jonasboner.com/about/){:target="_blank"} and also mentioned the fact that it is hosted on [GitHub Pages](https://pages.github.com/){:target="_blank"}. Exactly what I needed, so that's how I ended up using this solution for my personal website [https://pf80.ch](https://pf80.ch){:target="_blank"}.
 
-I am not going to explain in details how to setup Jekyll with GitHub pages as there is extensive documentation about this already (the [official documentation](https://jekyllrb.com/docs/github-pages){:target="_blank"} to start with), but I am just going to recommend considering this solution assuming that you are:
+I am not going to explain in details how to setup Jekyll with GitHub pages as there is extensive documentation about this already (the [official documentation](https://jekyllrb.com/docs/github-pages){:target="_blank"} to start with), but I am just going to recommend you to consider this solution if you are:
 
 * comfortable working with Git / GitHub
 * comfortable writing posts in [Markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"} format
