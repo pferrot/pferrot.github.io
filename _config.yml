@@ -49,11 +49,11 @@ include: ["_pages", ".well-known"]
 # Not using categories for now at least.
 # category_archive:
 #   type: liquid
-#   path: /categories/
+#   path: /categories
 
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags
 
 search: true
 # Could affect performance, see https://mmistakes.github.io/minimal-mistakes/docs/configuration/#lunr-default
