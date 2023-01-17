@@ -45,3 +45,5 @@ What I like about Butanuki:
 ## Address reuse
 
 Both solutions will reuse the same Bitcoin address for every payment. Address reuse should be avoided as explained [here](https://en.bitcoin.it/wiki/Address_reuse){:target="_blank"}. I wonder if this is something Relai or Butanuki are planning to improve.
+
+Update 18.01.2023 regarding address reuse: both Relai and Butanuki told me that this is something they are planning to improve. Relai said they will fix this "once it's legally feasible" while Butanuki mentioned the "move to XPUB or BIP47 asap".
