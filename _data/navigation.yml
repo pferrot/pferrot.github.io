@@ -1,3 +1,3 @@
 main:
-  #- title: "bitcoin"
-  #  url: "bitcoin"
+  - title: "books"
+    url: "/books"

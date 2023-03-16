@@ -201,3 +201,7 @@ div.languageSwitcher ul li + li::before {
 .greedy-nav-custom .hidden-links li:last-child { border-bottom: none; }
 
 .no-js .greedy-nav-custom .visible-links { -ms-flex-wrap: wrap; flex-wrap: wrap; overflow: visible; }
+
+table > tbody > tr > td {
+  vertical-align: top!important;
+}
