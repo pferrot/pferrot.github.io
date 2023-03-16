@@ -42,7 +42,7 @@ For now, I just wanted to list them here for anyone who might be curious what my
 
 <div class="book-pic"><a href="https://dataintensive.net/" target="_blank"><img src="/assets/images/books/tech/data-intensive.png"/></a></div>
 
-<div class="book-text">Amazing book to understand the internals, pros and cons of different tools and technologies typically used to build data-intensive applications. This will allow to make the best decisions and trad-offs to build highly reliable, scalable and maintainable systems.</div>
+<div class="book-text">Amazing book to understand the internals, pros and cons of different tools and technologies typically used to build data-intensive applications. This will allow you to make the best decisions and trad-offs to build highly reliable, scalable and maintainable systems.</div>
 
 </div>
 
