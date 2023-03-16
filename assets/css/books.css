@@ -1,3 +1,36 @@
 section > table > tbody > tr > td:first-child {
     width: 270px!important;
 }
+
+@media (max-width: 1023px) {
+    div.book-pic {
+        max-width: 150px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 1024px) {
+    div.book-wrapper {
+        overflow: hidden;
+        position: relative;
+    }
+
+    div.book-pic {
+        float: left!important;
+        width: 250px;
+        margin-bottom: 20px;
+        margin-top: 00px;
+        margin-right: 30px;
+        display: inline!important;
+    }
+    div.book-text {
+        display: block;
+        float: left!important;
+        width: 340px;
+    }
+}
+
+h1 {
+    margin-top: 50px;
+}

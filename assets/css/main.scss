@@ -205,3 +205,9 @@ div.languageSwitcher ul li + li::before {
 table > tbody > tr > td {
   vertical-align: top!important;
 }
+
+@media (max-width: 1023px) {
+  h2 {
+    font-size: 1.75em;
+  }
+}
